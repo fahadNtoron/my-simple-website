@@ -1,0 +1,9 @@
+.header{ 
+    color: blue;
+    height: 150px;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: utl(https://th.bing.com/th/id/OIP.n2mU4HYvgFSkCohgfLnqogAAAA?rs=1&pid=ImgDetMain);
+    background-size: contain
+    border: 10px solid;
+
+}
